@@ -28,8 +28,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "install": "npm-git install"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -48,9 +47,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "gitDependencies": {
-    "private-package-name": "git@private.git.server:user/repo.git#revision",
-    "public-package-name": "https://github.com/rohitbkanish8/React-Projects.git"
   }
 }
